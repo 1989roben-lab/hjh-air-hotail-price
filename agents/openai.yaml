@@ -1,0 +1,3 @@
+interface:
+  display_name: "旅行实时价格"
+  short_description: "查询和复查机票、酒店的公开报价"
